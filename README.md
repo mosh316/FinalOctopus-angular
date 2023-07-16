@@ -1,6 +1,9 @@
 # FruitsAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+I created a simple front side application and implemented only get requests. 
+when launching, the app will send a http GET request (a service injected in the component constructor and calling httpget function).
+the defalt screen will show some details about the data in the database and there is an option to choose whether you want to see this datta for all objects or only for apples(as you requested).
 
 ## Development server
 
